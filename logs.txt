@@ -1,0 +1,7 @@
+2026-03-28 08:32:11 LOGIN SUCCESS user: joao ip: 192.168.0.10
+2026-03-28 08:35:22 LOGIN FAILED user: joao ip: 192.168.0.15
+2026-03-28 08:36:10 LOGIN FAILED user: joao ip: 192.168.0.15
+2026-03-28 08:37:45 LOGIN SUCCESS user: joao ip: 192.168.0.15
+2026-03-28 08:40:01 FILE ACCESS user: joao file: financeiro.xlsx
+2026-03-28 08:41:33 FILE ACCESS user: joao file: senhas.txt
+
