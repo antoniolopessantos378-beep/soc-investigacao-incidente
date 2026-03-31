@@ -1,4 +1,4 @@
-## ▶️ Como executar
+##  Como executar
 
 1. Clone este repositório:
 
